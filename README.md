@@ -43,3 +43,8 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 ## About This Portofolio
 
 Each dashboard linked above has its own detailed `README.md` file within its respective project folder.These offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at the dashboard build.
+### Acknowledgements
+
+This project was completed by following Luke Barousse’s Power BI Data Analytics course on YouTube, using the dataset provided as part of the course.
+
+The dataset is not included in this repository. Course materials and data are available in the [Luke Barousse’s Power BI Data Analytics Course](https://github.com/lukebarousse/PowerBI_Data_Analytics_Course)
